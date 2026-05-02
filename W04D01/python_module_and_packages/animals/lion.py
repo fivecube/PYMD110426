@@ -1,0 +1,2 @@
+def roar():
+    return 'Roarrrrrrrr'
